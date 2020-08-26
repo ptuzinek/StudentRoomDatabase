@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StudentRoomDatabase</string>
+    <string name="add_button">Add Student</string>
+    <string name="welcome_title">Student Database</string>
+    <string name="title_pop">Student1</string>
+    <string name="name_pop">Student name</string>
+    <string name="year_pop">Year</string>
+    <string name="faculty_pop">Faculty</string>
+    <string name="eng">English</string>
+    <string name="math">Math</string>
+    <string name="hist">History</string>
+    <string name="phys">Physics</string>
+    <string name="programming">Programming</string>
+    <string name="economy">Economy</string>
+    <string name="id_popup">Id</string>
+    <string name="save">save</string>
+    <string name="courses_row">Courses</string>
+    <string name="sure_text">Delete this item?</string>
+    <string name="yes_confirmation">YES</string>
+    <string name="no_confirmation">NO</string>
+
+</resources>
